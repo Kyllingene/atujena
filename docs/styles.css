@@ -1,4 +1,5 @@
-html {
+* {
+  all: initial;
   text-align: center;
   
   background-color: #010101;
